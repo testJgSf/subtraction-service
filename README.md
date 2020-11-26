@@ -6,7 +6,6 @@
 ### Sin Docker  
 - Se require tener instalado nodeJs v12.13.0  
 - Instalar dependencias con `npm i`  
-- Crear archivo .env (Ejemplo en el archivo **.env.local**)  
 - Ejecutar el comando `npm start`  
   
 ### Con Docker 
