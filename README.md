@@ -19,7 +19,7 @@
   
 ## Contratos  
   
-Los contratos de entrada y salida se encuentran documentados en el siguiente link   ***************  
+- subtraction  [Servicio de resta OpenApi 3.0](https://app.swaggerhub.com/apis-docs/test_jg_sf/subtraction-service/1.0.0)  
   
   
 ## Documentación adicional  
